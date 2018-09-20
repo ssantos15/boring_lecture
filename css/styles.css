@@ -1,0 +1,15 @@
+div.intro {
+  text-align:center;
+}
+
+img.intro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.newFormat {
+    border:2px solid black;
+    background-color: #fff2ac;
+    background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);
+}
